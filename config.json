@@ -19,7 +19,7 @@
 	"user": "RD3CgkWXcEeV9Xfur2dEVabdHdogyrB4UX.LGtablet",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 4,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
